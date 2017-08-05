@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Grid View</string>
+    <string name="this_flag_belongs_to">This flag belongs to</string>
+    <string name="andorra_flag">andorra_flag</string>
+    <string name="ok">CLOSE</string>
+    <string-array name="country_names">
+        <item>Andorra</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Austria</item>
+        <item>Belgica</item>
+        <item>Bolivia</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Camerun</item>
+    </string-array>
+</resources>
